@@ -15,7 +15,7 @@ __module_description__ = 'For correcting other people\'s annoying reverse smiley
 channels = ('#omoi')
 ######################################################################################
 
-# smiley match regex
+# Smiley match regex
 smiley = re.compile(r'''(([/\\()\[\]0OoSsVvdIiXxiwW$#<*>])\2*[']{0,5}[-]?[:;=x8]+)''')
 
 # In Python 2.6, instead of using maptrans(), we define a dict with unicode ordinals
