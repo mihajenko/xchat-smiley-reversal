@@ -11,7 +11,7 @@ __module_description__ = 'For correcting other people\'s annoying reverse smiley
 
 ###################################### SETTINGS ######################################
 # Specify channel names (preceded by #, in lower-case) where plugin will take effect
-# Example: channel = ('#hackerz', '#general')
+# Example: channels = ('#hackerz', '#general')
 channels = ('#omoi')
 ######################################################################################
 
